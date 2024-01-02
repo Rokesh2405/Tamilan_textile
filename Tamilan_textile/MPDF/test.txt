@@ -1,0 +1,124 @@
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center"><h2>Tax Invoice</h2></td>
+
+</tr>
+</table>
+
+<table width="100%" style="font-size:12px;">
+<tr>
+<td valign="top" width="30%"> 
+<p><strong>From</strong></p>
+<p><strong>Thanvi Technologies</strong></p>
+<p>No.20-A, 1st Floor, Sathyamoorthy Nagar,<br>
+Thamos Road Bypass Road, Madurai - 625010</p>
+<p>Ph:+91 84381 64916</p>
+<p>GSTIN No: 33BAEP318H1ZL</p>
+<p>FSSAINO: 12421012003363</p>
+<p>GST State: TAMIL NADU
+
+</td><td valign="top" width="30%">
+<p><strong>To</strong></p>
+<p><strong>Thanvi Technologies<strong></p>
+<p>No.20-A, 1st Floor, Sathyamoorthy Nagar,<br>
+Thamos Road Bypass Road, Madurai - 625010</p>
+<p>Ph: +91 84381 64916</p>
+<p>GSTIN No: 33BAEP318H1ZL</p>
+<p>FSSAINO: 12421012003363</p>
+<p>GST State: TAMIL NADU
+</td><td valign="top" width="40%">
+<table width="100%">
+<tr>
+<td>Inv No</td>
+<td> : </td>
+<td>NIOCR2</td>
+</tr>
+<tr>
+<td>Date</td>
+<td> : </td>
+<td>04/10/2023</td>
+</tr>
+<tr>
+<td>SM Name</td>
+<td> : </td>
+<td></td>
+</tr>
+<tr>
+<td>Area Name</td>
+<td> : </td>
+<td></td>
+</tr>
+<tr>
+<td>Cust Phone No</td>
+<td> : </td>
+<td></td>
+</tr>
+<tr>
+<td>Shipping Date</td>
+<td> : </td>
+<td>04/10/2023</td>
+</tr>
+<tr>
+<td>Place Of Supply</td>
+<td> : </td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<hr style="border:5px solid #CCC; padding:0px; margin:0px;">
+             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:12px;">
+              <tr>
+                <td width="8%"><h4>Sno</h4></td>
+                <td width="15%"><h4>HSN Code</h4></td>
+                <td width="22%"><h4>Description</h4></td>
+                <td width="10%"><h4>Qty</h4></td>
+                <td width="12%"><h4>Rate</h4></td>
+                <td width="20%"><h4>Taxable Value</h4></td>
+                  <td width="15%"><h4>Amount</h4></td>
+              </tr>
+</table>
+<hr style="border:5px solid #CCC; padding:0px; margin:0px;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:13px;">
+   
+<tr>
+<td colspan="3" align="right">Total</td>
+<td></td>
+<td>Rs.0.00</td>
+<td>Rs.</td>
+<td>Rs.0.00</td>
+</tr>
+</table>
+<hr style="border:45px solid #CCC; padding:0px; margin:0px;">
+<table width="100%"  style="font-size:12px;">
+<tr>
+<td width="10%">&nbsp;</td>
+<td width="90%" valign="top" align="right">
+<table width="100%" align="right">
+              <tr>
+         <td align="right" valign="top">Gross Taxable Amount</td>
+         <td align="right" valign="top"> : Rs. </td>
+         <td align="right" valign="top">0.00</td>
+        </tr>
+        <tr>
+         <td align="right" valign="top">Invoice Value</td>
+         <td align="right" valign="top">: Rs. </td>
+         <td align="right" valign="top">0.00</td>
+        </tr><tr>
+         <td align="right" valign="top"><strong>Net Amount For TCS</strong></td>
+         <td align="right" valign="top"><strong>   : Rs. </strong></td>
+         <td align="right" valign="top"><strong>0.00</strong></td>
+        </tr><tr>
+         <td align="right" valign="top"><strong>Round Off</strong></td>
+         <td align="right" valign="top"><strong>   : Rs. </strong></td>
+         <td align="right" valign="top"><strong>0.00</strong></td>
+        </tr><tr>
+         <td align="right" valign="top"><strong>Net Payable</strong></td>
+         <td align="right" valign="top"><strong>   : Rs. </strong></td>
+         <td align="right" valign="top"><strong>0.00</strong></td>
+        </tr></table>
+</td></tr>
+</table>
